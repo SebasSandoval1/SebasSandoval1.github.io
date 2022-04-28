@@ -1,0 +1,276 @@
+div#general{
+    border-radius: 50px 50px 50px 50px;
+    margin: auto;
+    width: 1800px;
+    height: 2500px;
+    background-color: rgb(58, 95, 196);
+}
+div#cabeza{
+    border-radius: 50px 50px 0px 0px;
+    margin: auto;
+    width: 1800px;
+    height: 400px;
+    background-color: gainsboro;
+}
+p#sssr{
+    font-size: 100px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(58, 95, 196);
+    position: relative;
+    top: 50px;
+    margin: 50px;
+}
+p#ing{
+    font-size: 25px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(58, 95, 196);
+    position: relative;
+    top:0px;
+    margin: 50px;
+}
+#lista1 li {
+    display:inline;
+    padding-left:80px;
+    padding-right:80px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    background-color:rgb(58, 95, 196);
+    border-radius: 15px 15px 15px 15px;
+
+    position: relative;
+    top:30px;
+    margin: 0px;
+
+}
+a {
+    color:white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 25px;
+    text-decoration: none;
+
+}
+.separador {
+    color:rgb(255, 255, 255);
+    font-size: 40px;
+}
+
+div#mid{
+    border-radius: 0px 0px 0px 0px;
+    margin: auto;
+    width: 1800px;
+    height: 900px;
+    background-color: rgb(255, 255, 255);
+}
+div#sobre{
+  position: absolute;
+  top:340px;
+  margin: 120px;
+}
+div#skills{
+    position: absolute;
+    top:845px;
+    margin-left: 150px;
+  }
+p#sobre-txt{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(255, 255, 255);
+    font-size: 60px;
+  
+  }
+#form{
+    position: relative;
+    top:0px;
+    margin: 30px;
+}
+#skills{
+    position: relative;
+    top:200px;
+    margin: 30px;
+}
+p#text{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(58, 95, 196);
+    font-size: 30px;
+}
+div#text{
+    position: absolute;
+    top:520px;
+    margin: 65px;
+}
+div#linea{
+    width: 1800px;
+    height: 0px;
+    
+    position: absolute;
+    top: -30px;
+    margin: 550px;
+}
+div#linea2{
+    width: 1800px;
+    height: 0px;
+    position: absolute;
+    top: 930px;
+    margin-left: 550px;
+}
+div#bio{
+    width: 300px;
+    height: 300px;
+    background-color: blueviolet;
+    position: absolute;
+    top: 50px;
+    margin: 550px;
+}
+div#face{
+    width: 50px;
+    height: 50px;
+    position: absolute;
+    top: 700px;
+    margin-left: 900px;   
+}
+div#tw{
+    width: 50px;
+    height: 50px;
+    position: absolute;
+    top: 700px;
+    margin-left: 1050px;   
+}
+div#linked{
+    width: 50px;
+    height: 50px;
+    position: absolute;
+    top: 700px;
+    margin-left: 1250px;   
+}
+div#tik{
+    width: 50px;
+    height: 50px;
+    position: absolute;
+    top: 700px;
+    margin-left: 1450px;   
+}
+div#redit{
+    width: 50px;
+    height: 50px;
+    position: absolute;
+    top: 700px;
+    margin-left: 1625px;   
+}
+button#button{
+    background-color: rgb(255, 255, 255);
+    border-color: white;
+    border-bottom: none;
+    border-right: none; 
+}
+div#java{
+    width: 300px;
+    height: 300px;
+    background-color: none;
+    position: absolute;
+    top: 1050px;
+    margin-left: 100px;
+}
+div#py{
+    width: 300px;
+    height: 300px;
+    background-color: none;
+    position: absolute;
+    top: 1050px;
+    margin-left: 450px;
+}
+div#js{
+    width: 300px;
+    height: 300px;
+    background-color: none;
+    position: absolute;
+    top: 1050px;
+    margin-left: 750px;
+}
+div#css{
+    width: 300px;
+    height: 300px;
+    background-color: none;
+    position: absolute;
+    top: 1050px;
+    margin-left: 1070px;
+}
+div#ex{
+    width: 300px;
+    height: 300px;
+    background-color: none;
+    position: absolute;
+    top: 1050px;
+    margin-left: 1360px;
+}
+div#foot{
+    width: 1800px;
+    height: 700px;
+    border-radius: 0px 0px 50px 50px;
+}
+div#expe{
+    width: 450px;
+    height: 80px;
+    border-radius: 15px 15px 15px 15px;
+    background-color: skyblue;
+    position: relative;
+    top: 80px;
+    margin-left: 60px;
+}
+div#aca{
+    width: 450px;
+    height: 80px;
+    border-radius: 15px 15px 15px 15px;
+    background-color: skyblue;
+    position: relative;
+    top: 430px;
+    margin-left: 60px;
+}
+div#egre{
+    width: 950px;
+    height: 80px;
+    border-radius: 15px 15px 15px 15px;
+    background-color: none;
+    position: relative;
+    top: 430px;
+    margin-left: 160px;
+}
+div#exper{
+    width: 950px;
+    height: 80px;
+    border-radius: 15px 15px 15px 15px;
+    background-color: none;
+    position: relative;
+    top: 80px;
+    margin-left: 160px;
+}
+p#expP{
+    color:white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 50px;
+    text-decoration: none;
+    position: relative;
+    top: 10px;
+    margin-left: 20px;
+}
+p#expP2{
+    color:white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 40px;
+    text-decoration: none;
+    position: relative;
+    top: 10px;
+    margin-left: 20px;
+}
+div#linea3{
+    width: 1600px;
+    height: 0px;
+    position: absolute;
+    top: 1510px;
+    margin-left: 550px;
+}
+div#linea4{
+    width: 1600px;
+    height: 0px;
+    position: absolute;
+    top: 2110px;
+    margin-left: 550px;
+}
